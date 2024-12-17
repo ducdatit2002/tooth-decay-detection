@@ -1,0 +1,6 @@
+ultralytics
+flask
+waitress
+pillow
+streamlit 
+opencv-python-headless
