@@ -1,4 +1,3 @@
-```markdown
 # Dự Án Nhận Diện Sâu Răng
 
 ## Giới Thiệu
@@ -75,4 +74,3 @@ tooth-decay-detection/
 Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ với tôi qua email: **ducdatit2002@gmail.com** hoặc [GitHub](https://github.com/ducdatit2002).
 
 ---
-```
