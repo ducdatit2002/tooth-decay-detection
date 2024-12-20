@@ -7,6 +7,7 @@
 ## Demo
 
 ![Ảnh chụp giao diện ứng dụng](image.png)
+
 [Demo Huggingface](https://huggingface.co/spaces/ducdatit2002/tooth-decay-detection).
 
 
