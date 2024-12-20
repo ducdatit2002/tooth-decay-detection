@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Khởi chạy ứng dụng Streamlit:
 
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 ## Cấu Trúc Thư Mục
