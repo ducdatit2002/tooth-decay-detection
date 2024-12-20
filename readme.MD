@@ -4,6 +4,12 @@
 
 **Dự án Nhận Diện Sâu Răng** sử dụng mô hình YOLOv8 để phát hiện sâu răng từ hình ảnh. Người dùng có thể tải lên hình ảnh từ máy tính hoặc chụp hình trực tiếp bằng camera. Hệ thống sẽ tự động phát hiện sâu răng và hiển thị các bounding boxes kèm thông tin chi tiết.
 
+## Demo
+
+![Ảnh chụp giao diện ứng dụng](image.png)
+[Demo Huggingface](https://huggingface.co/spaces/ducdatit2002/tooth-decay-detection).
+
+
 ## Tính Năng
 
 - **Phát hiện sâu răng**: Sử dụng YOLOv8 để xác định vị trí sâu răng trên hình ảnh.
